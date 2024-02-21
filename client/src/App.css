@@ -153,3 +153,14 @@ div.post-page a.edit-btn{
 a svg{
   height:20px;
 }
+
+.search-bar-container {
+  display: flex;
+  flex-direction: row;
+  gap: 10px; /* Adjust the gap between search bars as needed */
+
+  /* Media query for smaller screens */
+  @media (max-width: 768px) {
+    flex-direction: column;
+  }
+}
