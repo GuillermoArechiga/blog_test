@@ -9,7 +9,7 @@ Welcome to our React/Express project! This repository contains the code for both
 git clone https://github.com/GuillermoArechiga/blog_test.git
 
 Navigate into the project directory:\
-cd your-repo
+cd blog_test
 
 Install dependencies for both server and client:\
 ### `npm install`
