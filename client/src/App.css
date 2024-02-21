@@ -66,7 +66,7 @@ div.post p.info{
 div.post p.info a.author{
   color:#333;
 }
-div.post p.summary{
+div.post p.content{
   margin:10px 0;
   line-height: 1.8rem;
 }
